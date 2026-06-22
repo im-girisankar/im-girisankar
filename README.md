@@ -2,9 +2,9 @@
 
 **AI Engineer — LLM systems, agentic tooling, evaluation & the data infra behind them.**
 
-M.Tech in Data Science & AI (CUSAT). I build production LLM systems and the tooling that
-keeps them honest. IBM WatsonX research grant recipient; thesis on **proactive hallucination
-detection via internal activation probing**. Background spans agentic apps, LLM evaluation,
+M.Tech in Data Science & AI (CUSAT), B.Tech CSE AI ML (VIT). I build production LLM systems and the tooling that
+keeps them honest. Thesis on **proactive hallucination
+detection via internal activation probing** [Mechanistic Interpretability]. Background spans agentic apps, LLM evaluation,
 MLOps, and large-scale data engineering.
 
 - 🔭 Focus: **LLM reliability & safety · agentic systems · MLOps & data pipelines**
