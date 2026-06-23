@@ -9,6 +9,7 @@ MLOps, and large-scale data engineering.
 
 - 🔭 Focus: **LLM reliability & safety · agentic systems · MLOps & data pipelines**
 - 🧠 Production experience: Azure OpenAI agents, RAG over unstructured documents, ETL on AWS (Airflow/PySpark)
+- 🚧 Shipping a frontier-AI series through 2026: LLM guardrails, MCP tooling, agent evaluation, GraphRAG, local RAG & LoRA fine-tuning
 - 📫 [LinkedIn](https://linkedin.com/in/im-girisankar) · girisankargopakumar@gmail.com
 
 ---
