@@ -19,6 +19,7 @@ MLOps, and large-scale data engineering.
 Every repo runs and is tested (heavy LLM libs optional/lazy so cores run offline). Highlights with **real, reproduced numbers**:
 
 - 🧪 **trust-probe** — a linear probe on **Qwen2.5-7B layer-19 activations detects TruthfulQA hallucinations at AUROC 0.916** (95% CI [0.898, 0.931]), peaking in the mid-late layers — reproducing my thesis's localization on a new model + public benchmark.
+- 🎛️ **lora-finetune-lab** — a real LoRA fine-tune lifted Qwen2.5-0.5B **+32 points (53%→85%)** on 4-way topic classification, training just **0.11% of parameters**.
 - 🛡️ **llm-redteam** — **1.00 precision, 0 false-positives** on held-out public jailbreaks (0.58 recall on novel framings).
 - 📄 **doc2md-bench** — a real leaderboard over 3 CPU PDF→Markdown converters (MarkItDown best overall 0.795; PyMuPDF4LLM best at tables).
 
